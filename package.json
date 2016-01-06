@@ -1,5 +1,5 @@
 {
-  "name": "stackgl-readme-css",
+  "name": "scijs-readme-css",
   "version": "1.2.0",
   "description": "Reusable CSS for styling README/Markdown content consistently",
   "main": "index.js",
@@ -27,18 +27,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/stackgl/stackgl-readme-css.git"
+    "url": "git://github.com/scijs/scijs-readme-css.git"
   },
   "keywords": [
-    "stackgl",
+    "scijs",
     "css",
     "readme",
     "markdown",
     "format",
     "style"
   ],
-  "homepage": "https://github.com/stackgl/stackgl-readme-css",
+  "homepage": "https://github.com/scijs/scijs-readme-css",
   "bugs": {
-    "url": "https://github.com/stackgl/stackgl-readme-css/issues"
+    "url": "https://github.com/scijs/scijs-readme-css/issues"
   }
 }
