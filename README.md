@@ -1,28 +1,28 @@
-# stackgl-readme-css
+# scisj-readme-css
 ![](http://img.shields.io/badge/stability-experimental-orange.svg?style=flat)
-![](http://img.shields.io/npm/v/stackgl-readme-css.svg?style=flat)
-![](http://img.shields.io/npm/dm/stackgl-readme-css.svg?style=flat)
-![](http://img.shields.io/npm/l/stackgl-readme-css.svg?style=flat)
+![](http://img.shields.io/npm/v/scisj-readme-css.svg?style=flat)
+![](http://img.shields.io/npm/dm/scisj-readme-css.svg?style=flat)
+![](http://img.shields.io/npm/l/scisj-readme-css.svg?style=flat)
 
 Reusable CSS for styling README/Markdown content consistently.
 
-**[example here](http://stack.gl/stackgl-readme-css)**
+**[example here](http://scijs.net/scisj-readme-css)**
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/stackgl-readme-css.png)](https://nodei.co/npm/stackgl-readme-css/)
+[![NPM](https://nodei.co/npm/scijs-readme-css.png)](https://nodei.co/npm/scijs-readme-css/)
 
 Can be imported using [sheetify](http://github.com/sheetify/sheetify) or
 [rework-npm](https://github.com/reworkcss/rework-npm) like so:
 
 ``` css
-@import 'stackgl-readme-css';
+@import 'scijs-readme-css';
 ```
 
 Or required as a string from [browserify](http://browserify.org/) or node:
 
 ``` javascript
-require('insert-css')(require('stackgl-readme-css'))
+require('insert-css')(require('scijs-readme-css'))
 ```
 
 ## Fonts
